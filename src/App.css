@@ -1,8 +1,17 @@
 .App {
   text-align: center;
+  background-color: #9E9E9E;
 }
 
-.App-logo {
+.mortgage-calc-form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +44,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
